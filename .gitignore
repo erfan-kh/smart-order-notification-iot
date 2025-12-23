@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Media & runtime
+media/
+logs/
+sessions/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
