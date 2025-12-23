@@ -104,3 +104,8 @@ This project solves those problems by notifying customers **directly on their ph
 ✅ Production-ready  
 ✅ Actively used  
 ✅ Stable and tested
+
+## ⚠️ Notes
+- Customer data, media files, and credentials are intentionally excluded.
+- WhatsApp automation and SMS integration are implementation-specific.
+- This repository focuses on system architecture and source code.
