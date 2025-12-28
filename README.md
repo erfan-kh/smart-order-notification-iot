@@ -28,7 +28,7 @@ This project solves those problems by notifying customers **directly on their ph
 - **Input:** 4×4 Keypad (order number entry)
 - **Display:** 16×2 Character LCD
 - **Connectivity:** WiFi
-- **Sensors:** None (user-input based system)
+- **Sensors:** None (user-input-based system)
 
 ---
 
@@ -39,7 +39,7 @@ This project solves those problems by notifying customers **directly on their ph
   - Read order number from 4×4 keypad
   - Display status and responses on LCD
   - Send order number to backend via REST API
-  - Receive success/error responses from server
+  - Receive success/error responses from the server
 - Includes **complete error handling** (network, server, invalid order)
 
 ---
@@ -60,7 +60,7 @@ This project solves those problems by notifying customers **directly on their ph
 - Send notifications via:
   - **SMS panel API**
   - **WhatsApp automation (Selenium)**
-- Report results back to ESP32 device
+- Report results back to the ESP32 device
 - Full **error handling and reporting**
 
 > The system is designed as a **plugin-style service** and is compatible with most cashier database structures commonly used in Iran.
@@ -78,7 +78,7 @@ This project solves those problems by notifying customers **directly on their ph
 ---
 
 ### 🚀 Real-World Usage
-- Deployed and used daily in a real fast food restaurant
+- Deployed and used daily in a real fast-food restaurant
 - Running continuously for **6+ months**
 - Benefits:
   - No need for speakers or monitors
@@ -109,3 +109,4 @@ This project solves those problems by notifying customers **directly on their ph
 - Customer data, media files, and credentials are intentionally excluded.
 - WhatsApp automation and SMS integration are implementation-specific.
 - This repository focuses on system architecture and source code.
+- Feel free to contribute.
